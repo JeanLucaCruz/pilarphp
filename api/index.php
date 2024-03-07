@@ -8,6 +8,44 @@
     <title>Resultados das Atividades</title>
 </head>
 <body>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #8af20b; 
+    margin: 0;
+    padding: 20px;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #444;
+    margin-top: 30px;
+}
+
+.resultado {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.resultado h3 {
+    color: #666;
+}
+
+.resultado p {
+    color: #888;
+}
+
+    </style>
     <h1>Resultados das Atividades</h1>
 
     <h2>Atividade 1: Classes de Ingresso</h2>
